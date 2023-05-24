@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mesa",
+      "price": 500.5
+    },
+    {
+      "id": 2,
+      "name": "Cadeira",
+      "price": 149.9
+    },
+    {
+      "id": 3,
+      "name": "Forro de mesa",
+      "price": 49.9
+    },
+    {
+      "name": "talher",
+      "price": "29.90",
+      "id": 4
+    }
+  ]
+}
