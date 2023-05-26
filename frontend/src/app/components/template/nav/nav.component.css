@@ -11,3 +11,9 @@
     padding-right: 5px;
     vertical-align: middle;
 }
+
+.content {
+    padding: 16px;
+    background-color: #fff;
+    color: black;
+}
