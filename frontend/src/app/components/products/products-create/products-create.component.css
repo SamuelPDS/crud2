@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+button{
+width: 100px;
+ margin: 20px 15px 5px 10px;
+ display: inline-block;
+}
+
+mat-card {
+    width: 400px;
+    color: white;
+    text-align: center
+}
